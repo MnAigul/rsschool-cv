@@ -12,7 +12,11 @@
 
 ## About me
 
-Interested in professional development in the field of software development. Have knowledge in Java development. I'm always happy to learn something new. There is a desire to work as a Full Stack developer.
+
+I am currently a final year student at KFU at the Faculty of Applied Mathematics and Informatics. 
+I also study at School 21 from Sber.
+
+Interested in professional development in the field of software development. Have knowledge of Java language. I'm always happy to learn something new. There is a desire to work as a Full Stack developer.
 
 ## Skills
 
