@@ -43,6 +43,10 @@ request.open('GET', 'js/current1.json');
         }
     })
 ``` 
+## Education
+
+* Kazan Federal University
+* School 21 Sber (School franchise 42 ecole)
 
 ## Courses
 * Full course on JavaScript + React Udemy (in progress)
